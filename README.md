@@ -35,7 +35,7 @@ The software that is used is **Python Panda** in Jupyter Notebook. The following
 ###  Installation 
 Use this steps to access the Jupyter notebook:  
 ```
-git clone https://github.com/Myrthevdv/Final_Project_R-M/blob/main/code.ipynb
+git clone https://github.com/Myrthevdv/Final_Project_R-M
 jupyter notebook code.ipynb
 ```
 
