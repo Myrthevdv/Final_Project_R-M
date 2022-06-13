@@ -42,9 +42,9 @@ jupyter notebook code.ipynb
 ### Used Data
 
 The data which is used for our project is comming from the in-house Twitter corpus
-folow the steps of ``` Access Data ``` to Acess the data to use it
-I used that data from July 22 2021 of each hour, with the metadeta date,place and hashtags.
-to select the data for this project follow the following steps:
+folow the steps of ``` Access Data ``` to Acess and download the data to use it
+I used the data from July 22 2021 of each hour, with the metadeta date,place and hashtags.
+to select and download the data for this project follow the following steps:
 
 ```
 cd /net/corpora/twitter2/Tweets
